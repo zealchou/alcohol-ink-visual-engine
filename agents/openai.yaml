@@ -1,0 +1,13 @@
+interface:
+  display_name: 流光墨韻｜酒精墨水視覺引擎
+  short_description: 自動選擇酒精墨水風格，整合品牌、攝影、插畫與自媒體輪播製作
+  default_prompt: 使用 $alcohol-ink-visual-engine 依我的內容、品牌與平台，自動選風格並組合適合的視覺技能，完成整組作品。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
